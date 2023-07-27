@@ -1,7 +1,7 @@
 name: .NET2
 
 env:
-  AZURE_WEBAPP_NAME: app-app-shimenoaz3a/Staging
+  AZURE_WEBAPP_NAME: app-app-shimenoaz3aStaging
   AZURE_WEBAPP_PACKAGE_PATH: '.'
 
 on:
